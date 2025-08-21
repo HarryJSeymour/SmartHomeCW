@@ -1,6 +1,6 @@
 # SmartHome Dashboard Console
 
-Archived repository for my SmartHome console application for M30299-2020/21-SMYEAR PAPL
+Repository for my SmartHome console application for M30299-2020/21-SMYEAR PAPL
 
 ## Overview of Project
 
